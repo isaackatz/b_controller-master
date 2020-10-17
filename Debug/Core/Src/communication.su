@@ -1,0 +1,5 @@
+communication.c:10:6:parse_normal_package	24	static
+communication.c:27:6:normal_response	32	static
+communication.c:53:6:parse_device_package	24	static
+communication.c:70:6:device_response	32	static
+communication.c:95:6:parse_config_package	48	static

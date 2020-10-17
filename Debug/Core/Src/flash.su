@@ -1,0 +1,2 @@
+flash.c:4:7:FLASH_ReadSettings	32	static
+flash.c:21:7:FLASH_WriteSettings	64	static
